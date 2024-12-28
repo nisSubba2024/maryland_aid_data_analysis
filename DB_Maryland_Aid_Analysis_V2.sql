@@ -1,5 +1,9 @@
 -- ******************* Analysis and Questions ***********************----------
--- Created by Nishan Subba
+/* /////////////////////////////////////////////
+    Copyright by : Nishan Subba
+    Github: @nisShan2024
+    Date: Dec 28, 2024
+////////////////////////////////////////////// */
 
 -- **************** Questions ******************* -----------
 -- These are the questions I'll be using to do analysis. These question are divided into different sections for better organization.
