@@ -1,5 +1,10 @@
 -- ***************Maryland Aids Database Creation and Cleaning *******************-----
--- Created by Nishan Subba
+/* /////////////////////////////////////////////
+    Copyright by : Nishan Subba
+    Github: @nisShan2024
+    Date: Dec 28, 2024
+////////////////////////////////////////////// */
+
 
 DROP DATABASE IF EXISTS maryland_aids_db;
 
