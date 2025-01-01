@@ -1,9 +1,13 @@
 -- ******************* Analysis and Questions ***********************----------
-/* /////////////////////////////////////////////
-    Copyright by : Nishan Subba
-    Github: @nisShan2024
-    Date: Dec 28, 2024
-////////////////////////////////////////////// */
+/*
+ * //////////////////////////////////////////////////////////////////////
+ *      PROGRAM:MARYLAND_AID_ANALYSIS/DB_MARYLAND_AID_ANALYSIS_V2.SQL
+ *      Written by Nishan Subba
+ *      GitHub: @nisSubba2024
+ *      Purpose: Analyzing Maryland Aid by anwering questions
+ *      Last Date Modified: Dec 31, 2024
+ * //////////////////////////////////////////////////////////////////////
+*/
 
 -- **************** Questions ******************* -----------
 -- These are the questions I'll be using to do analysis. These question are divided into different sections for better organization.
