@@ -1,9 +1,13 @@
 -- ***************Maryland Aids Database Creation and Cleaning *******************-----
-/* /////////////////////////////////////////////
-    Copyright by : Nishan Subba
-    Github: @nisShan2024
-    Date: Dec 28, 2024
-////////////////////////////////////////////// */
+/*
+ * //////////////////////////////////////////////////////////////////////
+ *      PROGRAM: MARYLAND_AID_ANALYSIS/DB_CLEANING_CREATION.SQL
+ *      Written by Nishan Subba
+ *      GitHub: @nisSubba2024
+ *      Purpose: Cleaning and refactoring data for analysis
+ *      Last Date Modified: Dec 31, 2024
+ * //////////////////////////////////////////////////////////////////////
+*/
 
 
 DROP DATABASE IF EXISTS maryland_aids_db;
